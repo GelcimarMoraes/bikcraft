@@ -12,7 +12,7 @@
 }
 
 #seguros .seguros {
-  padding-top: 0;
+  padding-top: 0px;
 }
 
 .seguros h2 {
@@ -49,7 +49,7 @@
 }
 
 .seguros-item li + li {
-margin-top: 20px;
+  margin-top: 20px;
 }
 
 .seguros-item li::before {
@@ -57,7 +57,7 @@ margin-top: 20px;
   display: inline-block;
   width: 13px;
   height: 9px;
-  background-image: url('../../img/icones/lista.svg');
+  background-image: url("../../img/icones/lista.svg");
   position: absolute;
   left: -21px;
 }

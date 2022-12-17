@@ -9,19 +9,11 @@
 
 .perguntas dl > div {
   padding: 20px;
-  border-bottom: 4px;
+  border-radius: 4px;
 }
 
 .perguntas dl > div:nth-child(odd) {
   background-color: var(--cor-1);
-}
-
-.perguntas dt::before {
-  content: "";
-  display: inline-block;
-  width: 12px;
-  height: 8px;
-  background-color: var(--cor-p1);
 }
 
 .perguntas dt {
@@ -32,13 +24,21 @@
   cursor: pointer;
 }
 
+.perguntas dt::before {
+  content: "";
+  display: inline-block;
+  width: 12px;
+  height: 8px;
+  background-color: var(--cor-p1);
+}
+
 .perguntas dt::after {
   content: "";
   display: inline-block;
   width: 14px;
   height: 6px;
   background: url("../../img/icones/seta-abrir.svg");
-  transition: .3s;
+  transition: 0.3s;
 }
 
 .perguntas dt:hover::after {
