@@ -2,20 +2,20 @@
 
 ![Texto Alternativo](https://raw.githubusercontent.com/GelcimarMoraes/bikcraft/main/screen.png)
 
-<h3 align="center">💻 Project</h3>
+<h3 align="center">💻 Projeto</h3>
 
 <div align="center">
 <p> 
   
-  This project was developed based on the Tutorials of [origamid](https://www.origamid.com/) 
+  Este projeto foi desenvolvido com base nos Tutoriais do [origamid](https://www.origamid.com/) 
 
 </p>
 </div>
 
 <br/><br/>
-<h3 align="center">🚀 Technologies</h3>
+<h3 align="center">🚀 Tecnologias</h3>
 <p align="center">
-  This project was developed with the following technologies:
+  Este projeto foi desenvolvido com as seguintes tecnologias:
   <br> <br>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=html"/></code>
     <code><img style="width: 40px" src="https://skillicons.dev/icons?i=css"/></code>
